@@ -1,10 +1,13 @@
 # emmonsw.github.io-
 
 ## 1. Human Trafficing
+working
 
 ## 2. place holder
+coming soon
 
 ## 3. place holder
+coming soon
 
 ## 4. UFO Sightings Analysis (US)
 
