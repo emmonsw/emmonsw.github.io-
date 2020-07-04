@@ -1,12 +1,12 @@
 # emmonsw.github.io-
 
-## 1. Human Trafficing
+## 1. Human Trafficking
+complete - coming soon
+
+## 2. Homelessness Analysis
 working
 
-## 2. place holder
-coming soon
-
-## 3. place holder
+## 3. Human Trafficking/Homelessness Investigation
 coming soon
 
 ## 4. UFO Sightings Analysis (US)
